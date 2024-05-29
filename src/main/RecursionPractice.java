@@ -1,5 +1,5 @@
-package com.amazon.ata.recursion.prework;
-
+//package com.amazon.ata.recursion.prework;
+package main;
 public class RecursionPractice {
 
     /**
